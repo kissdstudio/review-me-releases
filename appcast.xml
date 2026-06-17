@@ -6,6 +6,14 @@
     <description>Sparkle update feed for the review-me Mac app.</description>
     <language>en</language>
     <item>
+      <title>review-me 0.1.0 (build 11)</title>
+      <pubDate>Wed, 17 Jun 2026 18:04:19 +0000</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/kissdstudio/review-me-releases/releases/download/v0.1.0-b11/ReviewMe-0.1.0-b11.zip" type="application/octet-stream" sparkle:edSignature="IGeipR2o548+bZX/LxVTCNPZRHCxHHdLtuytArrjkUgF7KPh68aoowRfEZNxTT+4G1nBlMBeI/PHiHd+w1NzBg==" length="1578621" />
+    </item>
+    <item>
       <title>review-me 0.1.0 (build 10)</title>
       <pubDate>Sun, 14 Jun 2026 08:27:46 +0000</pubDate>
       <sparkle:version>10</sparkle:version>
